@@ -1,3 +1,3 @@
-Todo Application. 
+**Todo Application.**
 
-A simple do to application made with HTML, CSS and JS
+A simple todo application made with HTML, CSS and JS
